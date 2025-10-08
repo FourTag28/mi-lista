@@ -1,0 +1,48 @@
+name: Actualizar lista IPTV
+
+on:
+  schedule:
+    - cron: "0 */2 * * *"   # corre cada 2 horas (UTC)
+  workflow_dispatch:         # te permite lanzarlo manualmente en Actions
+
+jobs:
+  update-lista:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Clonar repo
+        uses: actions/checkout@v4
+
+      - name: Descargar listas IPTV-org
+        run: |
+          curl -L https://iptv-org.github.io/iptv/countries/mx.m3u -o mx.m3u
+          curl -L https://iptv-org.github.io/iptv/categories/movies.m3u -o movies.m3u
+          curl -L https://iptv-org.github.io/iptv/categories/news.m3u -o news.m3u
+          # Agrega más si quieres:
+          # curl -L https://iptv-org.github.io/iptv/categories/music.m3u -o music.m3u
+          # curl -L https://iptv-org.github.io/iptv/categories/sports.m3u -o sports.m3u
+
+      - name: Construir mi-lista.m3u (simple)
+        run: |
+          echo "#EXTM3U" > mi-lista.m3u
+          echo "# Auto-actualizada cada 2 horas desde IPTV-org" >> mi-lista.m3u
+          echo "# Generada: $(date -u +"%Y-%m-%d %H:%M:%S UTC")" >> mi-lista.m3u
+          echo "" >> mi-lista.m3u
+
+          echo "# ----- Mexico -----" >> mi-lista.m3u
+          grep -v '^#EXTM3U' mx.m3u >> mi-lista.m3u || true
+          echo "" >> mi-lista.m3u
+
+          echo "# ----- Peliculas -----" >> mi-lista.m3u
+          grep -v '^#EXTM3U' movies.m3u >> mi-lista.m3u || true
+          echo "" >> mi-lista.m3u
+
+          echo "# ----- Noticias -----" >> mi-lista.m3u
+          grep -v '^#EXTM3U' news.m3u >> mi-lista.m3u || true
+
+      - name: Commit y push (solo si cambió)
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add mi-lista.m3u
+          git commit -m "Actualización automática (cada 2 horas)" || echo "Sin cambios"
+          git push
