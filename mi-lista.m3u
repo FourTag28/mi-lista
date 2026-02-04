@@ -1,6 +1,6 @@
 #EXTM3U
 # Auto-actualizada cada 2 horas desde IPTV-org
-# Generada: 2026-02-03 22:19:31 UTC
+# Generada: 2026-02-04 01:06:01 UTC
 
 # ----- Mexico -----
 #EXTINF:-1 tvg-id="8NTV.mx@SD" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="General",8NTV (1080p)
@@ -603,8 +603,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
 #EXTINF:-1 tvg-id="KinoBarrandov.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Kino_Barrandov_logo.png/512px-Kino_Barrandov_logo.png" group-title="Movies",Kino Barrandov (720p)
 http://83.167.253.107/hdmi1_ext
-#EXTINF:-1 tvg-id="KinoPolska.pl@SD" tvg-logo="https://i.postimg.cc/qMf5xw2d/kinopolska.png" group-title="Movies",Kino Polska (1080p)
-https://liveovh010.cda.pl/enc005/kinopolskahdraw/kinopolskahdraw.mpd
 #EXTINF:-1 tvg-id="Kinoteatr.uz@SD" tvg-logo="https://i.postimg.cc/QdhYRM64/kinoteatr.png" group-title="Movies",Kinoteatr (1080p)
 https://stream8.cinerama.uz/1009/tracks-v1a1/playlist.m3u8
 #EXTINF:-1 tvg-id="Klasik.hr@SD" tvg-logo="https://i.imgur.com/C90BYlb.png" group-title="Movies",Klasik TV (576p) [Not 24/7]
@@ -704,8 +702,6 @@ https://cdn-4.pishow.tv/live/233/master.m3u8
 https://live21.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 #EXTINF:-1 tvg-id="ParamountMovieChannel.us@SD" tvg-logo="https://i.imgur.com/sj5h9bl.png" group-title="Movies",Paramount Movie Channel
 http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a7819-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=8a4a0712-cb24-4d05-b429-1b98c1f73f74
-#EXTINF:-1 tvg-id="ParamountNetwork.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Movies;Series",Paramount Network (1080p)
-https://liveovh010.cda.pl/enc028/paramountnetworkhdraw/paramountnetworkhdraw.mpd
 #EXTINF:-1 tvg-id="ParamountNetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png" group-title="Movies;Series",Paramount Network East
 https://fl1.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
 #EXTINF:-1 tvg-id="ParamountPlusPicks.us@SD" tvg-logo="https://images.pluto.tv/channels/5ff8c708653d080007361b14/featuredImage.jpg" group-title="Movies",Paramount+ Picks
@@ -992,6 +988,8 @@ https://rpn.bozztv.com/trn01/gusa-TVSFilmNoir/index.m3u8
 http://190.2.212.209:8050/play/a0q3
 #EXTINF:-1 tvg-id="UniversalComedy.us@SD" tvg-logo="https://i.imgur.com/avBL8pQ.png" group-title="Comedy;Movies;Series",Universal Comedy (480p)
 http://190.2.212.209:8050/play/a0q4
+#EXTINF:-1 tvg-id="USANetwork.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png" group-title="Comedy;Movies;Series;Sports",USA Network East (1080p) [Not 24/7]
+https://tvpass.org/live/USANetworkEast/hd
 #EXTINF:-1 tvg-id="Veo7.es@SD" tvg-logo="https://i.imgur.com/kklTIMm.png" group-title="Movies;Series",Veo7 (1080p)
 http://176.65.146.237:8401/play/a09k/index.m3u8
 #EXTINF:-1 tvg-id="VHSTV.ru@SD" tvg-logo="https://i.imgur.com/BHCwWBf.png" group-title="Movies",VHS TV [Not 24/7]
@@ -1654,6 +1652,8 @@ https://cloudvideo.servers10.com:8081/8020/index.m3u8
 https://itv.streams.ovh:1936/corfuchannel/corfuchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="CosmosTv.ar@SD" tvg-logo="https://i0.wp.com/fmcosmos.com/wp-content/uploads/2021/11/COSMOS-TV.png" group-title="Movies;News",Cosmos Tv (720p)
 https://canaletaplus.com:3922/hybrid/play.m3u8
+#EXTINF:-1 tvg-id="Crimea24.ru@SD" tvg-logo="https://i.imgur.com/k4C0uvp.png" group-title="News",Crimea 24 (576i)
+https://cdn.1tvcrimea.ru/24tvcrimea.m3u8
 #EXTINF:-1 tvg-id="CT24.cz@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/%C4%8CT24_logo.png/512px-%C4%8CT24_logo.png" group-title="News",CT24
 https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CTSNews.tw@SD" tvg-logo="https://i.imgur.com/V1EVtRm.png" group-title="News",CTS News (華視新聞資訊) [Geo-blocked]
@@ -2416,8 +2416,6 @@ https://cdn.bmstudiopk.com/pnn/smil:PNN.smil/playlist.m3u8
 https://live-cf-polimernews.dailyhunt.in/master.m3u8
 #EXTINF:-1 tvg-id="PolsatNews.pl@SD" tvg-logo="https://i.imgur.com/sx1yPuc.png" group-title="News",Polsat News (720p) [Geo-blocked]
 http://cdn-s-lb2.pluscdn.pl/lv/1517830/349/dash/81ec4c32/live.mpd
-#EXTINF:-1 tvg-id="PolsatNews2.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Polsat_News_2_2021_gradient.svg/512px-Polsat_News_2_2021_gradient.svg.png" group-title="News",Polsat News 2 (1080p)
-https://turbotv.io/play/link/75409b46-e472-4a51-9077-abd80596670f/eyJpdiI6Ik9uRkVaekdYWDUxSU9GbTF2Mm9YR2c9PSIsInZhbHVlIjoiNy9Gc3NQWXNPSFZFeFcybVBOcWYyM1JyUDRIUVFCemhOeFVLUmJjQys0VWR6VFhnMHh0L3ZmQ1VIOCsrQUN4Y2tVdldRQ3RHV2NqL3psQmtPNlJtS0dqY1ZvV3hqNVp5WllvWFZ0U0dJdVE9IiwibWFjIjoiN2EwZTJhNDhiNTBlZjAwMDlhYzczYzE2NGNlODQ1YWQ0OWNmYWMwYjk0ZTUyN2E4ODE1OTg4MzYwNzA1ZDFhMCIsInRhZyI6IiJ9.m3u8
 #EXTINF:-1 tvg-id="PolsatNewsPolityka.pl@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Polsat_News_Polityka_2024_gradient.svg/320px-Polsat_News_Polityka_2024_gradient.svg.png" group-title="News",Polsat News Polityka (1080p) [Geo-blocked]
 https://lb2-e3-20.pluscdn.pl/lv/1511888/322/dash/52a9b70b/live.mpd
 #EXTINF:-1 tvg-id="PowerTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POWER_TV/images/LOGO_HD/image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" group-title="News",Power TV (576p)
@@ -2943,8 +2941,6 @@ http://176.110.1.30:1935/live/donbasonline/playlist.m3u8
 http://igi-hls.cdnvideo.ru/igi/igi_tcode/playlist.m3u8
 #EXTINF:-1 tvg-id="KrikTV.ru@SD" tvg-logo="https://i.postimg.cc/qRy8Jsq8/kriktv.png" group-title="News",КРИК-ТВ (Екатеринбург)
 http://cdn-01.bonus-tv.ru/kriktv_edge/playlist.m3u8
-#EXTINF:-1 tvg-id="Crimea24.ru@SD" tvg-logo="https://i.imgur.com/k4C0uvp.png" group-title="News",Крым 24
-https://streaming.televizor-24-tochka.ru/live/28.m3u8
 #EXTINF:-1 tvg-id="Legendarnyy24.ru@SD" tvg-logo="https://i.imgur.com/z9t6x8B.png" group-title="News",Легендарный 24
 https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 tvg-id="Millet.ru@SD" tvg-logo="https://i.imgur.com/hUjLRLy.png" group-title="News",Миллет (540p) [Not 24/7]
