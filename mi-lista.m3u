@@ -1,6 +1,6 @@
 #EXTM3U
 # Auto-actualizada cada 2 horas desde IPTV-org
-# Generada: 2026-07-22 22:52:03 UTC
+# Generada: 2026-07-23 01:47:15 UTC
 
 # ----- Mexico -----
 #EXTINF:-1 tvg-id="8NTV.mx@SD" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="General",8NTV (1080p)
@@ -25,8 +25,8 @@ https://stream.oursnetworktv.com/latin/encoder13/playlist.m3u8
 http://177.245.131.133:8080/AXN/index.m3u8
 #EXTINF:-1 tvg-id="Azteca7.mx@SD" tvg-logo="https://i.imgur.com/UtFXjIn.png" group-title="General",Azteca 7 (1080p)
 http://45.189.62.33:8002/play/a0fm/index.m3u8
-#EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx@SD" tvg-logo="https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg" group-title="Sports",Azteca Deportes Network (720p)
-http://38.194.226.190:8000/play/a02r/index.m3u8
+#EXTINF:-1 tvg-id="AztecaDeportesNetwork.mx@SD" tvg-logo="https://match-images.icdb.tv/5913207f2494844101287828e87625eb.jpg" group-title="Sports",Azteca Deportes Network (1080p)
+http://181.119.66.28:8081/AZTECA-DEPORTES-HD/index.m3u8
 #EXTINF:-1 tvg-id="AztecaInternacional.mx@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/eb/Azteca_Internacional_logo_2023.png" group-title="Entertainment",Azteca Internacional (1080p)
 https://azt-mun.otteravision.com/azt/mun/mun.m3u8
 #EXTINF:-1 tvg-id="AztecaUno.mx@SD" tvg-logo="https://i.imgur.com/rRxgBtI.png" group-title="General",Azteca Uno (1080p)
@@ -426,9 +426,6 @@ http://212.70.131.37:8000/play/a05k
 #EXTINF:-1 tvg-id="AMCEurope.uk@CzechRepublic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AMC Europe Czech Republic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 http://88.212.15.19/live/test_amc_25p/playlist.m3u8
-#EXTINF:-1 tvg-id="AMCEurope.uk@Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AMC Europe Hungary
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://46.149.191.217:9007/play/a01d
 #EXTINF:-1 tvg-id="AMCEurope.uk@Romania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",AMC Europe Romania (576p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/amc/index.m3u8
@@ -487,9 +484,6 @@ http://88.212.15.19/live/test_black/playlist.m3u8
 #EXTINF:-1 tvg-id="AXNBlack.us@Romania" tvg-logo="https://i.imgur.com/Peo1QiZ.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",AXN Black Romania (406p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/axnblack/index.m3u8
-#EXTINF:-1 tvg-id="AXNCEE.es@Hungary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN CEE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://46.149.191.217:9009/play/a02d
 #EXTINF:-1 tvg-id="AXNCEE.es@Bulgary" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN CEE Bulgary
 http://85.11.144.9:4222/AXN
 #EXTINF:-1 tvg-id="AXNCEE.es@CzechRepublic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",AXN CEE Czech Republic
@@ -500,6 +494,8 @@ http://88.212.15.19/live/test_axn/playlist.m3u8
 https://aes.m3u8simplu.workers.dev/axn/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@CentralAmerica" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Latin America (1080p)
 http://138.121.15.230:9002/AXN/index.m3u8
+#EXTINF:-1 tvg-id="AXNLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Latin America (1080p)
+http://15.204.246.24:8080/AXNHD/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@Andes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Latin America Andes (1080p)
 http://138.186.23.7:8082/AXN/index.m3u8
 #EXTINF:-1 tvg-id="AXNLatinAmerica.us@Mexico" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="Movies",AXN Latin America Mexico (1080p)
@@ -664,6 +660,8 @@ https://aes.m3u8simplu.workers.dev/cinemaraton/index.m3u8
 #EXTINF:-1 tvg-id="CinemaratonMoldova.md@SD" tvg-logo="https://i.imgur.com/XuDlweg.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Cinemaraton Moldova
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/cinemaratonmoldova/index.m3u8
+#EXTINF:-1 tvg-id="CinemaWorld.my@SD" tvg-logo="https://i.imgur.com/D2qNVZ7.png" group-title="Movies",CinemaWorld (720p)
+https://cdn.qd.je/163189/cinemaworld
 #EXTINF:-1 tvg-id="CineMo.ph@SD" tvg-logo="https://i.imgur.com/rGAOD3f.png" group-title="Movies",Cinemo (480p)
 https://streams.comclark.com/pknsd/cinemo/playlist.m3u8
 #EXTINF:-1 tvg-id="Cinevault80s.us@SD" tvg-logo="https://i.imgur.com/xaCyyDd.png" group-title="Movies",Cinevault 80s (720p)
@@ -749,13 +747,14 @@ http://86.87.15.10:8008/play/a01m/index.m3u8
 #EXTINF:-1 tvg-id="Film1Premiere.nl@SD" tvg-logo="https://i.imgur.com/Kn9LX8i.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Film1 Premiere
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://86.87.15.10:8008/play/a01n/index.m3u8
-#EXTINF:-1 tvg-id="FilmArts.ar@Panregional" tvg-logo="https://i.imgur.com/ukdmEKD.png" group-title="Movies",Film & Arts (720p)
-http://200.91.32.158:8080/filmarts/index.m3u8
-#EXTINF:-1 tvg-id="FilmMania.hu@SD" tvg-logo="https://i.imgur.com/crhsomk.png" group-title="Movies",Film Mania
-http://46.149.191.217:9015/play/a00v
+#EXTINF:-1 tvg-id="FilmArts.ar@Panregional" tvg-logo="https://i.imgur.com/ukdmEKD.png" group-title="Movies",Film & Arts (1080p)
+http://15.204.246.24:8080/FilmArtsHD/index.m3u8
 #EXTINF:-1 tvg-id="FilmNow.ro@SD" tvg-logo="https://i.imgur.com/sSoRvGz.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Film Now (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 https://aes.m3u8simplu.workers.dev/filmnow/index.m3u8
+#EXTINF:-1 tvg-id="FilmPlus.cz@SD" tvg-logo="https://i.imgur.com/OBYuY3S.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Film+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/test_film_plus_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="Filmax.pk@SD" tvg-logo="https://i.imgur.com/eLmdZ6k.png" group-title="Movies",Filmax (576p)
 https://s3.ideationtec.live/Filmax/Filmax.m3u8
 #EXTINF:-1 tvg-id="Filmazia.pk@SD" tvg-logo="https://i.imgur.com/hpTCANa.png" group-title="Movies",Filmazia (576p)
@@ -846,7 +845,7 @@ https://pb-x9qsxrudiq9d2.akamaized.net/webvtt/v1/18584c3f3a2a4df8/88886014/maste
 #EXTINF:-1 tvg-id="FrightFlix.us@SD" tvg-logo="https://i.imgur.com/rgNQYAl.png" group-title="Movies",FrightFlix (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2229
 #EXTINF:-1 tvg-id="FXMovieChannel.us@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/960px-FXM_Logo.svg.png" group-title="Movies",FX Movie Channel (720p)
-https://starlite.best/api/stream/hurt/hurt/livetv.epg/fx.movie.channel.us.m3u8
+http://40.160.24.52/FXM/index.m3u8
 #EXTINF:-1 tvg-id="FXM.us@East" tvg-logo="https://comteco.com.bo/img/upload/canales/svCJXa.png" group-title="Movies",FXM (720p)
 https://gpuserver3.tier1streams.com/FXM/index.m3u8
 #EXTINF:-1 tvg-id="GEMBollywood.tr@SD" tvg-logo="https://i.imgur.com/2XASeBk.png" group-title="Movies",GEM Bollywood
@@ -1111,6 +1110,12 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MovifyKino.lv@SD" tvg-logo="https://i.imgur.com/XIk5EJN.png" http-referrer="https://void.greenhosting.ru/" group-title="Classic;Movies",Movify Kino (576p)
 #EXTVLCOPT:http-referrer=https://void.greenhosting.ru/
 https://void.greenhosting.ru/MovifyKino_Mpeg4/index.m3u8
+#EXTINF:-1 tvg-id="MoziPlus.hu@SD" tvg-logo="https://i.imgur.com/LtCnPFJ.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Mozi+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/mozi_plusz/index.m3u8
+#EXTINF:-1 tvg-id="Moziverzum.hu@SD" tvg-logo="https://i.imgur.com/NMifecQ.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Moziverzum
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/moziverzum/index.m3u8
 #EXTINF:-1 tvg-id="MyCinema.id@SD" tvg-logo="https://i.imgur.com/BTmcTQO.png" http-referrer="https://www.dens.tv/" http-user-agent="Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36" group-title="Movies",My Cinema [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 Windows NT 10.0; Win64; x64 AppleWebKit/537.36 KHTML, like Gecko Chrome/144.0.0.0 Safari/537.36
@@ -1664,6 +1669,8 @@ https://sltwohls.wns.live/hls/stream.m3u8
 https://stream.smotrim.ru/hls/fasttv03/playlist_3.m3u8
 #EXTINF:-1 tvg-id="SonyCanalNovelas.us@SD" tvg-logo="" group-title="Movies",Sony Canal Novelas
 https://a89829b8dca2471ab52ea9a57bc28a35.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_SonyCanalNovelas/playlist.m3u8
+#EXTINF:-1 tvg-id="SonyMax1.in@SD" tvg-logo="https://brand-websites-prod.s3.ap-south-1.amazonaws.com/sonypicturesnetworksindia/general_content/PGT_1822_2.png" group-title="Movies",Sony Max 1 (720p)
+http://103.159.180.34:5001/live/3418.m3u8
 #EXTINF:-1 tvg-id="SonyMax2.in@SD" tvg-logo="https://i.imgur.com/gqUYk6C.png" group-title="Movies",Sony Max 2 (576p)
 http://149.71.34.166:8000/play/a00z/index.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="Movies",Sony Movies (720p)
@@ -1850,9 +1857,9 @@ https://jmp2.uk/plu-62bebc3459624e00078209c3.m3u8
 https://jmp2.uk/plu-62beb44e3afd120007915d1b.m3u8
 #EXTINF:-1 tvg-id="ViafreeMovies.se@SE" tvg-logo="https://images.pluto.tv/channels/62bebc3459624e00078209c3/colorLogoPNG.png" group-title="Movies",Viafree Movies
 https://jmp2.uk/plu-62f64ec9eb1045000728cad6.m3u8
-#EXTINF:-1 tvg-id="ViasatFilm.hu@SD" tvg-logo="https://i.imgur.com/5CoP6ex.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",Viasat Film
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
-http://46.149.191.217:9009/play/a028
+#EXTINF:-1 tvg-id="ViasatFilm.hu@SD" tvg-logo="https://i.imgur.com/5CoP6ex.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Viasat Film
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
+http://88.212.15.19/live/viasat_film/index.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000action.ru@SD" tvg-logo="https://i.imgur.com/TMmyuzh.png" group-title="Movies",viju TV1000 action
 https://stream8.cinerama.uz/1225/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="vijuTV1000russkoe.ru@SD" tvg-logo="https://i.imgur.com/Meak2y4.png" group-title="Movies",viju TV1000 Русское (576p)
@@ -2002,6 +2009,8 @@ https://live.x2.co.th/live/13livetv-th.m3u8
 https://thelegitpro.in/HDlive/22scope/index.fmp4.m3u8
 #EXTINF:-1 tvg-id="247CanaldeNoticias.ar@SD" tvg-logo="https://i.imgur.com/4hDCB1M.png" group-title="News",24/7 Canal de Noticias
 https://panel.host-live.com:19360/cn247tv/cn247tv.m3u8
+#EXTINF:-1 tvg-id="24Horas.es@SD" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="News;Public",24 Horas (1080p)
+http://185.47.212.25:8080/24h_HD/index.m3u8
 #EXTINF:-1 tvg-id="24Kanal.ua@SD" tvg-logo="https://pbs.twimg.com/profile_images/1498285886714298374/EMSJzC-0_400x400.jpg" group-title="News",24 Kanal (720p)
 https://cdn15.live-tv.cloud/ua_infinitas_tv/news24-abr/playlist.m3u8
 #EXTINF:-1 tvg-id="24KZ.kz@SD" tvg-logo="https://24.kz/templates/khabar24/img/logo-new.png" group-title="News",24KZ
@@ -2439,8 +2448,6 @@ http://canbroadcast.com:7000/canlican/tv.m3u8
 https://directo.tuwebtv.es/canal1.m3u8
 #EXTINF:-1 tvg-id="Canal4.ni@SD" tvg-logo="https://i.imgur.com/nhgtZdt.png" group-title="News",Canal 4 (480p) [Not 24/7]
 http://138.117.4.70:8075/Canal04_CooTelmnbv/playlist.m3u8
-#EXTINF:-1 tvg-id="24Horas.es@SD" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="News;Public",Canal 24 Horas (720p)
-https://ztnr.rtve.es/ztnr/1694255.m3u8
 #EXTINF:-1 tvg-id="24HorasCanarias.es@SD" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="News;Public",Canal 24 Horas Canarias (720p)
 https://ztnr.rtve.es/ztnr/5473142.m3u8
 #EXTINF:-1 tvg-id="24HorasCatalunya.es@SD" tvg-logo="https://i.ibb.co/21sXZ3GT/24h.png" group-title="News;Public",Canal 24 Horas Catalunya (720p)
@@ -3036,8 +3043,8 @@ https://f5842579ff984c1c98d63b8d789673eb.msvdn.net/live/S27391994/HVvPMzy/playli
 https://vcdn.dunyanews.tv/lahorelive/ngrp:lnews_1_all/playlist.m3u8
 #EXTINF:-1 tvg-id="LahoreRang.pk@SD" tvg-logo="https://i.imgur.com/hglxHTa.png" group-title="News",Lahore Rang (1080p)
 http://103.250.28.74:8000/play/a01q/index.m3u8
-#EXTINF:-1 tvg-id="LatinaNoticias247.pe@SD" tvg-logo="https://assets.rudo.video/assets/latina/live/logoApi_4b43aad719f5bbf7aa2813c2199e6e3e1755620584.png" group-title="News",Latina Noticias 24/7 (720p)
-https://redirector.rudo.video/hls-video/567ffde3fa319fadf3419efda25619456231dfea/latinanoticias/latinanoticias.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="LatinaNoticias247.pe" tvg-logo="https://assets.rudo.video/assets/latina/live/logoApi_4b43aad719f5bbf7aa2813c2199e6e3e1755620584.png" group-title="News",Latina Noticias 24/7 (1080p)
+https://dai.google.com/linear/hls/event/oYQGDqEGTmGdHE_fz9oLlg/master.m3u8
 #EXTINF:-1 tvg-id="LCI.fr@HD" tvg-logo="https://i.imgur.com/DED8EXs.png" group-title="News",LCI HD (1080p)
 http://151.80.18.177:86/LCI_HD/index.m3u8
 #EXTINF:-1 tvg-id="LCN.ca@SD" tvg-logo="https://i.imgur.com/iKDLgOG.png" group-title="News",LCN [Geo-blocked]
