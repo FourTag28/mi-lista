@@ -1,6 +1,6 @@
 #EXTM3U
 # Auto-actualizada cada 2 horas desde IPTV-org
-# Generada: 2026-10-28 20:39:44 UTC
+# Generada: 2026-10-29 01:21:15 UTC
 
 # ----- Mexico -----
 #EXTINF:-1 tvg-id="8NTV.mx@SD" tvg-logo="https://i.imgur.com/7ecgGIG.png" group-title="General",8NTV (1080p)
@@ -437,6 +437,12 @@ http://107.167.7.162:8081/playlist/amhor/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://vaughn.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36
 https://stream-cdn-iad.vaughnsoft.net/play/live_a_neflix01.flv
+#EXTINF:-1 tvg-id="AnmolCinema2.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_ANMOL_CINEMA_2/images/LOGO_HD/LOGO_HD_image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema 2 (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/257/master.m3u8
+#EXTINF:-1 tvg-id="AnmolCinema.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00260YG8.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Anmol Cinema (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/271/master.m3u8
 #EXTINF:-1 tvg-id="ArmeniaPremium.am@SD" tvg-logo="" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",Armenia Premium (720p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://stream.mcquack.net/123/index.m3u8
@@ -832,8 +838,6 @@ https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8
 #EXTVLCOPT:http-referrer=https://cool-tv.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18
 https://thor1.syndula1.cfd/df/usergendlg1ks0t2n.m3u8
-#EXTINF:-1 tvg-id="FilmNow.ro@HD" tvg-logo="https://i.imgur.com/sSoRvGz.png" group-title="Movies",Film Now HD (1080i)
-https://lbgo.bozztv.com/ssh101/ssh101/filmnoww/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmPlus.cz@SD" tvg-logo="https://i.imgur.com/OBYuY3S.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Film+ (Czech Republic)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_film_plus_25p/playlist.m3u8
@@ -998,11 +1002,13 @@ http://41.205.93.154/HALLMARK/index.m3u8
 https://live4dai.antenaplay.ro/live2_srt/live2_srt.m3u8
 #EXTINF:-1 tvg-id="HarbinMovieChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/haerbin.jpg" group-title="Movies",Harbin Movie Channel
 https://stream.hrbtv.net/yspd/playlist.m3u8
-#EXTINF:-1 tvg-id="HBO2.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/HBO_2_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122226" group-title="Movies",HBO 2
+#EXTINF:-1 tvg-id="HBO2.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/HBO_2_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122226" group-title="Movies",HBO 2 (Czech Republic)
 http://88.212.15.50/live/test_hbo2_hd_hevc/playlist.m3u8
+#EXTINF:-1 tvg-id="HBO2.pl@SD" tvg-logo="https://i.imgur.com/2e3muOJ.png" group-title="Movies;Series",HBO 2 (Poland) (1080p)
+http://185.227.34.179:8080/hbo-2-hd/index.m3u8
 #EXTINF:-1 tvg-id="HBO2LatinAmerica.us@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/HBO2_logo.svg/960px-HBO2_logo.svg.png" group-title="Movies;Series",HBO 2 Latin America HD (1080p)
 http://45.171.64.30:6060/play/a00i/index.m3u8
-#EXTINF:-1 tvg-id="HBO3.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/HBO_3_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122202" group-title="Movies",HBO 3
+#EXTINF:-1 tvg-id="HBO3.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6f/HBO_3_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122202" group-title="Movies",HBO 3 (Czech Republic)
 http://88.212.15.50/live/test_hbo3_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO.cz@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/HBO_Silver_glossy_logo.svg/revision/latest?cb=20260529155924" group-title="Movies",HBO (Czech Republic)
 http://88.212.15.50/live/test_hbo_hd_hevc/playlist.m3u8
@@ -1034,7 +1040,7 @@ http://dtv.vol.net.ua/Hollywood-HD/index.m3u8
 https://homeplushls.wns.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="HorosheeKino.ru@SD" tvg-logo="https://i.imgur.com/ZbOqfy4.png" group-title="Movies",Horoshee Kino (720p)
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
-#EXTINF:-1 tvg-id="HTVCMovies.vn@SD" tvg-logo="" group-title="Movies;Series",HTVC Movies (720p)
+#EXTINF:-1 tvg-id="HTVCMovies.vn@SD" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/refs/heads/master/HTVC%20Phim%20HD.png" group-title="Movies;Series",HTVC Movies (720p)
 https://dethich.pw/htvcphim/index.m3u8
 #EXTINF:-1 tvg-id="ICCplus.us@SD" tvg-logo="" group-title="Movies",ICC plus (1080p)
 https://icchls.wns.live/hls/stream.m3u8
@@ -1059,7 +1065,7 @@ https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8
 #EXTINF:-1 tvg-id="ItageTV.ng@SD" tvg-logo="https://i.imgur.com/FP1aUPw.jpg" group-title="Movies",Itage TV (480p)
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_011/Stream/playlist.m3u8
 #EXTINF:-1 tvg-id="JalshaMovies.in@HD" tvg-logo="https://i.imgur.com/25eWjX2.png" group-title="Movies",Jalsha Movies HD (1080p)
-http://103.185.24.134:3001/JALSHA-MOVIES-HD/index.m3u8
+http://103.151.60.162:2122/play/a00x/index.m3u8?hls
 #EXTINF:-1 tvg-id="JiangsuMovieChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jsys.jpg" group-title="Movies",Jiangsu Movie Channel (576p)
 http://223.110.243.134/PLTV/4/224/3221225937/index.m3u8
 #EXTINF:-1 tvg-id="JiangxiMovieChannel.cn@SD" tvg-logo="https://www.tvchinese.net/uploads/tv/jiangxi.jpg" group-title="Movies",Jiangxi Movie Channel
@@ -1147,8 +1153,9 @@ https://mmn1-301f.kxcdn.com/hls/MMN-HLS.m3u8
 #EXTINF:-1 tvg-id="MagyarMoziTV.hu@SD" tvg-logo="https://i.imgur.com/cXajs8V.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Magyar Mozi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.7.14/live/mozi/index.m3u8
-#EXTINF:-1 tvg-id="MahaMovie.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png" group-title="Movies",Maha Movie (576p)
-https://cdn.pishow.tv/ott/live/10007/master.m3u8
+#EXTINF:-1 tvg-id="MahaMovie.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Maha_Movies.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Maha Movie (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/48/48_0.m3u8
 #EXTINF:-1 tvg-id="MahuaPlay.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Mahua_Play.png" group-title="Movies",Mahua Play (1080p)
 https://cdn.ottlive.co.in/mahuaplay/index.m3u8
 #EXTINF:-1 tvg-id="ManoranjanGrand.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143302_ld_h15_aa.png?lock=720x540" group-title="Movies",Manoranjan Grand (720p)
@@ -2001,6 +2008,9 @@ https://stmv6.voxtvhd.com.br/cineterror/cineterror/playlist.m3u8
 http://stream.mcquack.net/380/index.m3u8
 #EXTINF:-1 tvg-id="ZBCinema.in@HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ZBCINEMA.png" group-title="Classic;Movies",ZB Cinema (1080p)
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
+#EXTINF:-1 tvg-id="ZeeAction.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0022K5ZV.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Movies",Zee Action (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/270/master.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",Zee Cinema (576p)
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/NGCHD.m3u8
 #EXTINF:-1 tvg-id="ZeeCinema.in@APAC" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_CINEMA/images/LOGO_HD/LOGO_HD_image.png" group-title="Movies",Zee Cinema APAC (720p)
@@ -2027,8 +2037,9 @@ https://directes-tv-int.3catdirectes.cat/live-origin/canal324-hls/master.m3u8
 https://rds3.desdeparaguay.net/4dmasnoticiastv/4dmasnoticiastv/playlist.m3u8
 #EXTINF:-1 tvg-id="4SiDESTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4sites.png" group-title="News",4 SiDES TV (1080p)
 https://stream.ottlive.co.in/4sidestv/index.m3u8
-#EXTINF:-1 tvg-id="4TVNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png" group-title="News",4TV News (576p)
-https://cdn.pishow.tv/ott/live/1007/master.m3u8
+#EXTINF:-1 tvg-id="4TVNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/4_TV.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",4TV News (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/647/master.m3u8
 #EXTINF:-1 tvg-id="6PR.au@SD" tvg-logo="https://i.imgur.com/Q9iCxg1.png" group-title="News",6PR (1080p)
 https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8
 #EXTINF:-1 tvg-id="6TVTelugu.in@SD" tvg-logo="https://i.imgur.com/l3EcRnZ.png" group-title="News",6 TV Telugu (576p)
@@ -2146,6 +2157,9 @@ https://d2l4ar6y3mrs4k.cloudfront.net/live-streaming/ganga-livetv/master.m3u8
 https://mumbai-edge.smartplaytv.in/ABPMajha/index.m3u8
 #EXTINF:-1 tvg-id="ABPNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158138_ld_h15_aa.png?lock=720x540" group-title="News",ABP News (1080p)
 https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-472500/abpnews/master.m3u8
+#EXTINF:-1 tvg-id="ABPSanjha.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/ABP_Sanjha.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",ABP Sanjha (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/641/master.m3u8
 #EXTINF:-1 tvg-id="AcentoTV.do@SD" tvg-logo="https://i.imgur.com/jhiZfHf.png" http-referrer="https://acentotv01.streamprolive.com/i/cp/hls/player.html" group-title="News",Acento TV
 #EXTVLCOPT:http-referrer=https://acentotv01.streamprolive.com/i/cp/hls/player.html
 https://acentotv01.streamprolive.com/hls/live.m3u8
@@ -2285,6 +2299,8 @@ https://hplayer1.juyun.tv/camera/154379194.m3u8
 #EXTINF:-1 tvg-id="Antena3CNN.ro@SD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0" group-title="News",Antena 3 CNN (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Safari/537.36 Edg/155.0.0.0
 https://live3vox.antenaplay.ro/a3free/a3free.m3u8
+#EXTINF:-1 tvg-id="Antena3Constanta.ro@SD" tvg-logo="https://antena3constanta.ro/wp-content/uploads/2025/08/ant3-logonn.jpg" group-title="News",Antena 3 Constanta (576p)
+https://streaming.eforie.city/memfs/7223115a-4f22-4e2c-86f5-354552acab7f.m3u8
 #EXTINF:-1 tvg-id="AntikInfoTV.sk@HD" tvg-logo="https://i.imgur.com/Q0qL60o.png" group-title="News",Antik Info TV (1080p)
 https://dash4.antik.sk/live/test_infokanal_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="AnwarTV2.iq@SD" tvg-logo="https://i.imgur.com/yHZXPcn.png" http-referrer="https://odysee.com/" group-title="News",Anwar TV2 (720p)
@@ -2323,8 +2339,9 @@ https://mars.streambridge.cloud/sls/ashwaveega/playlist.m3u8
 https://stream.ottlive.co.in/asiannews/index.m3u8
 #EXTINF:-1 tvg-id="AsianetNews.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ASIANET_NEWS/images/LOGO_HD/image.png" group-title="News",Asianet News (1080p)
 https://amg13737-amg13737c1-amgplt0016.playout.now3.amagi.tv/playlist/amg13737-amg13737c1-amgplt0016/playlist.m3u8
-#EXTINF:-1 tvg-id="AsianetSuvarnaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142682_ld_h15_aa.png?lock=720x540" group-title="News",Asianet Suvarna News (1080p) [Not 24/7]
-https://asianetnews.vgcdn.net/vglive-sk-335835/playlist.m3u8
+#EXTINF:-1 tvg-id="AsianetSuvarnaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142682_ld_h15_aa.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",Asianet Suvarna News (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/692/master.m3u8
 #EXTINF:-1 tvg-id="AsomLive24.in@SD" tvg-logo="https://papaji.freetvindia.com/media/channels/asom_live_24x7.png" group-title="News",Asom Live 24 (576p)
 https://mumt06.tangotv.in/qYyB8fXVASHOMLIVE/index.m3u8
 #EXTINF:-1 tvg-id="AssamTalks.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s142683_ld_h15_aa.png?lock=720x540" group-title="News",Assam Talks (576p)
@@ -2690,12 +2707,14 @@ https://hls.dabangasudan.org/hls/stream.m3u8
 https://vglivessai.akamaized.net/sg/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/103b8dd3-a888-4d1d-89a5-8a4bc25e48c1/index.m3u8
 #EXTINF:-1 tvg-id="DBCNews.bd@SD" tvg-logo="https://i.imgur.com/Qbt6q4z.png" group-title="News",DBC News (480p)
 http://tvn3.chowdhury-shaheb.com/dbc/index.m3u8
-#EXTINF:-1 tvg-id="DDMizoram.in@SD" tvg-logo="https://i.imgur.com/I5zT1DG.png" group-title="Culture;News",DD Mizoram (504p)
-https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
+#EXTINF:-1 tvg-id="DDMizoram.in@SD" tvg-logo="https://i.imgur.com/I5zT1DG.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="Culture;News",DD Mizoram (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/381/master.m3u8
 #EXTINF:-1 tvg-id="DDNews.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png" group-title="News",DD News (1080p)
 https://mumbai-edge.smartplaytv.in/DDNews/index.m3u8
-#EXTINF:-1 tvg-id="DDNews.in@HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png" group-title="News",DD News HD (1080p)
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/0811cd8c37ca4c409d5385a6cd2fa18b/index.m3u8
+#EXTINF:-1 tvg-id="DDNews.in@HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20News%20HD.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",DD News HD (1080p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/117/117_0.m3u8
 #EXTINF:-1 tvg-id="DeUltimoMinutoTV.do@SD" tvg-logo="https://i.imgur.com/6ML2z17.png" group-title="News",De Ultimo Minuto TV
 https://soportedvb.click:3620/live/deultimominutomedialive.m3u8
 #EXTINF:-1 tvg-id="DHA.tr@SD" tvg-logo="https://i.imgur.com/VZhag2x.png" group-title="News",DHA (720p) [Not 24/7]
@@ -2913,6 +2932,9 @@ http://200.115.120.1:8000/play/ca066/index.m3u8
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="GujaratFirst.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gujarat_First_24x7.png" group-title="News",Gujarat First (576p)
 https://mumt03.tangotv.in/Dsly5z3HGUJARATFIRST/index.m3u8
+#EXTINF:-1 tvg-id="GulistanNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143097_ld_h15_aa.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",Gulistan News (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/427/master.m3u8
 #EXTINF:-1 tvg-id="GuneydoguTV.tr@SD" tvg-logo="https://i.imgur.com/JT5pp3Y.png" group-title="News",Guneydogu TV (720p)
 https://edge1.socialsmart.tv/gtv/bant1/playlist.m3u8
 #EXTINF:-1 tvg-id="Haber61TV.tr@SD" tvg-logo="https://i.imgur.com/2a2XUKl.png" group-title="News",Haber61 TV (720p) [Not 24/7]
@@ -2997,8 +3019,23 @@ https://mumt05.tangotv.in/87NeALx2INDIAAHEAD/index.m3u8
 https://indiadaily.ottlive.co.in/indiadailylive/index.m3u8
 #EXTINF:-1 tvg-id="IndiaNews.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143190_ld_h15_aa.png?lock=720x540" group-title="News",India News (576p)
 https://mumt03.tangotv.in/Dsly5z3HINDIANEWS/index.m3u8
+#EXTINF:-1 tvg-id="IndiaNewsGujarati.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_Gujarat.png" http-user-agent="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",India News Gujarati (576p)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/653/master.m3u8
+#EXTINF:-1 tvg-id="IndiaNewsHaryana.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s143192_ld_h15_aa.png?lock=720x540" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",India News Haryana (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/590/master.m3u8
+#EXTINF:-1 tvg-id="IndiaNewsMadhyaPradeshChhattisgarh.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_MP.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",India News Madhya Pradesh/Chhattisgarh (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/600/master.m3u8
 #EXTINF:-1 tvg-id="IndiaNewsPunjabHimachal.in@SD" tvg-logo="https://i.imgur.com/Mu1MPvt.png" group-title="News",India News Punjab/Himachal (576p)
 https://mumt03.tangotv.in/Dsly5z3HINDIANEWSPBHPJ&K/index.m3u8
+#EXTINF:-1 tvg-id="IndiaNewsRajasthan.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_Rajasthan.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",India News Rajasthan (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/601/master.m3u8
+#EXTINF:-1 tvg-id="IndiaNewsUttarPradesh.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/India_News_UP.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",India News Uttar Pradesh (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/304/master.m3u8
 #EXTINF:-1 tvg-id="IndiaToday.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TODAY/images/LOGO_HD/image.png" group-title="News",India Today (720p)
 https://d1rc86nwwc9fag.cloudfront.net/vglive-sk-293160/master.m3u8
 #EXTINF:-1 tvg-id="IndiaTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INDIA_TV/images/LOGO_HD/image.png" group-title="News",India TV (720p)
@@ -3015,8 +3052,9 @@ https://cdn.pishow.tv/ott/live/411/master.m3u8
 https://lnk5511.bstrm.net/live/687e3fd2679c8d4d68fab65b/hd/manifest.mpd
 #EXTINF:-1 tvg-id="InformatiaTV.ro@SD" tvg-logo="https://i.imgur.com/P1ZbVRg.png" group-title="News",Informatia TV
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
-#EXTINF:-1 tvg-id="INH24x7.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INH_24X7/images/LOGO_HD/image.png" group-title="News",INH 24x7 (396p)
-https://d1msejlow1t3l4.cloudfront.net/fta/inh24x7/playlist.m3u8
+#EXTINF:-1 tvg-id="INH24x7.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_INH_24X7/images/LOGO_HD/image.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",INH 24x7 (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/99/99_0.m3u8
 #EXTINF:-1 tvg-id="IranInternational.uk@SD" tvg-logo="https://i.imgur.com/55RpaF3.png" group-title="News",Iran International (1080p)
 https://hlspackager.akamaized.net/live/DB/IRAN_INTERNATIONAL/HLS/IRAN_INTERNATIONAL.m3u8
 #EXTINF:-1 tvg-id="IranPress.ir@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg/960px-%D9%84%D9%88%DA%AF%D9%88_%D8%A7%DB%8C%D8%B1%D8%A7%D9%86_%D9%BE%D8%B1%D8%B3.jpg" group-title="News",Iran Press
@@ -3270,7 +3308,7 @@ https://telmaco.ascdn.broadpeak.io/nafteboriki/default/index.m3u8
 https://mumt06.tangotv.in/qYyB8fXVNAGALANDTV/index.m3u8
 #EXTINF:-1 tvg-id="NANTV.bd@SD" tvg-logo="https://www.jagobd.com/wp-content/uploads/2019/11/NAN-TV-Logo-02.png" group-title="News",NAN TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/nantv.stream/live-orgin/nantv.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="Nanduti.py@SD" tvg-logo="https://i.imgur.com/vnIkhRO.png" http-referrer="https://nanduti.com.py/nanduti-tv" group-title="News",Nanduti (1080p)
+#EXTINF:-1 tvg-id="Nanduti.py@SD" tvg-logo="https://i.imgur.com/AsuVsLa.png" http-referrer="https://nanduti.com.py/nanduti-tv" group-title="News",Nanduti (1080p)
 #EXTVLCOPT:http-referrer=https://nanduti.com.py/nanduti-tv
 https://nanduti.b-cdn.net/Source.m3u8
 #EXTINF:-1 tvg-id="NationNews.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/nationnews.png" group-title="News",Nation News (720p)
@@ -3279,6 +3317,9 @@ https://server.playontv.in/nationnews/index.m3u8
 https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8
 #EXTINF:-1 tvg-id="NationalIranianCongressTV.us@SD" tvg-logo="https://iraniancongress.com/tv/logo.png" group-title="News",National Iranian Congress TV
 https://tv.iraniancongress.com/stream/tv.m3u8
+#EXTINF:-1 tvg-id="NaxatraNews.in@SD" tvg-logo="https://i.imgur.com/IGduUk4.png" http-user-agent="#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",Naxatra News (576p)
+#EXTVLCOPT:http-user-agent=#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/668/master.m3u8
 #EXTINF:-1 tvg-id="NaxatraNewsHindi.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Naxatra_News_Hindi.png" group-title="News",Naxatra News Hindi (576p)
 https://d2gvyg6lvauoko.cloudfront.net/230226/naxatranewshindi/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
 #EXTINF:-1 tvg-id="NBCNewsNOW.us@SD" tvg-logo="https://i.imgur.com/JZt2qh5.png" group-title="News",NBC News NOW (1080p)
@@ -3838,6 +3879,9 @@ https://telmaco-cdn.akamaized.net/starcgr/default/index.m3u8
 https://live.cast-control.eu/StartMedia/StartMedia/playlist.m3u8
 #EXTINF:-1 tvg-id="SterkTV.be@SD" tvg-logo="https://i.imgur.com/bIheNAI.png" group-title="News",Sterk TV (1080p)
 https://hlspackager.akamaized.net/live/DB/STERK_TV/HLS/STERK_TV.m3u8
+#EXTINF:-1 tvg-id="STVHaryanaNews.in@SD" tvg-logo="https://i.imgur.com/TJRZo9e.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36" group-title="News",STV Haryana News (576p)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+https://fta.ektv.in/live/607/master.m3u8
 #EXTINF:-1 tvg-id="STZTV.br@SD" tvg-logo="https://i.imgur.com/SeF2I7q.png" group-title="Culture;News",STZ TV (1080p)
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12952/playlist/playlist.m3u8
 #EXTINF:-1 tvg-id="SuaraSurabayaVisualRadio.id@Surabaya" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f8/Suara_Surabaya.svg" http-referrer="https://www.suarasurabaya.net/" group-title="Interactive;News",Suara Surabaya Visual Radio (720p)
